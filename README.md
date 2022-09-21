@@ -1,21 +1,13 @@
-<h1 align="center">Hi 🤩, I'm Marshall Ross</h1>
 <h3 align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>  A Swift Developer...see? ⬇️ </h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallaross&show_icons=true&locale=en&layout=compact" alt="marshallaross" /></p>
-
 - 🔭 I’m currently working on **BarkBarkBark**
-
 - 🌱 I’m currently learning **Vapor**
-
 - 👯 I’m looking to collaborate on **Anything! Invite me to a task and I'll gobble it up.**
-
 - 🤝 I’m looking for help with **Getting paid work.**
-
 - 💬 Ask me about **All things Swift and SwiftUI**
-
 - 📫 How to reach me **MarshallARoss@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marshallaross" height="30" width="40" /></a>
