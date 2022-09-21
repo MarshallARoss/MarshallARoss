@@ -2,17 +2,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallaross&show_icons=true&locale=en&layout=compact" alt="marshallaross" /></p>
-- 🔭 I’m currently working on **BarkBarkBark**
-
-- 🌱 I’m currently learning **Vapor**
-
-- 👯 I’m looking to collaborate on **Anything! Invite me to a task and I'll gobble it up.**
-
-- 🤝 I’m looking for help with **Getting paid work.**
-
-- 💬 Ask me about **All things Swift and SwiftUI**
-
-- 📫 How to reach me **MarshallARoss@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marshallaross&" alt="marshallaross" /></p>
 
@@ -20,7 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marshallaross" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marshall-ross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marshall-ross" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marshallaross" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/marshall-ross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marshallaross" height="30" width="40" /></a>
 <a href="https://instagram.com/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marshallaross" height="30" width="40" /></a>
 </p>
 
+📫 How to reach me **MarshallARoss@gmail.com**
