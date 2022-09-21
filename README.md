@@ -3,9 +3,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallaross&show_icons=true&locale=en&layout=compact" alt="marshallaross" /></p>
 
-I'm looking for ways to get paid doing what I love -> Making mindblowing apps that solve people's problems. If you're hiring and/or looking to start a project ping me and let's chat! Some of my portfolio projects are below.
-
-Don't forget to check out my main piece **BarkBarkBark** <a href="https://apps.apple.com/us/app/barkbarkbark/id1614039880"> in the app store. </a>
+I'm looking for ways to get paid doing what I love -> Making mindblowing apps that solve people's problems. If you're hiring ping me and let's chat! Some of my favorite portfolio projects are below. Don't forget to check out my main piece **BarkBarkBark** <a href="https://apps.apple.com/us/app/barkbarkbark/id1614039880"> in the app store. </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
