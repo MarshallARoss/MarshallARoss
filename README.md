@@ -3,7 +3,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallaross&show_icons=true&locale=en&layout=compact" alt="marshallaross" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marshallaross&" alt="marshallaross" /></p>
+I'm looking for ways to get paid doing what I love -> Making mindblowing apps that solve people's problems. If you're hiring or working on a cool project ping me and let's chat!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
