@@ -12,7 +12,6 @@ Don't forget to check out my main piece **BarkBarkBark** <a href="https://apps.a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marshallaross" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marshall-ross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marshall-ross" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/marshall-ross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="marshallaross" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marshallaross" height="30" width="40" /></a>
 <a href="https://instagram.com/marshallaross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marshallaross" height="30" width="40" /></a>
 </p>
