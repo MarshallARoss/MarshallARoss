@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤩, I'm Marshall Ross</h1>
-<h3 align="left">A Swift Developer...see? ⬇️</h3> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
+<h3 align="left">A Swift Developer...see? ⬇️ <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallaross&show_icons=true&locale=en&layout=compact" alt="marshallaross" /></p>
