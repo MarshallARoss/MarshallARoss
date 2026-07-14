@@ -3,7 +3,10 @@
 <table>
 <tr>
 <td valign="middle">
-<b>the apps you're looking for</b>
+<b>The apps you're looking for</b>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFtcGVncHcwbnV6aTg3aTAzZHhmdGxjNjV0c2ltcTNmNXRneDl6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4560Nv2656Gv0Lvp9F/giphy.gif" width="60" align="center" />
+
+  
 <pre>
               &#9617;&#9617;
               &#9617;&#9617;&#9617;
