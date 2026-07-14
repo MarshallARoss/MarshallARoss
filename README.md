@@ -1,10 +1,23 @@
-<p align="left">
-👇 &nbsp; the work you're looking for
-</p>
-<p align="left">
-<a href="https://feelsmusic.app" target="blank">feelsmusic.app</a> &nbsp;•&nbsp;
-<a href="https://guestbets.com" target="blank">guestbets.com</a>
-</p>
+<h1 align="left">Hey, I'm Marshall</h1>
+
+<table>
+<tr>
+<td valign="middle">
+<pre>
+██
+  ██
+██████████████████
+██████████████████
+  ██
+██
+</pre>
+</td>
+<td valign="middle">
+<a href="https://feelsmusic.app" target="blank"><b>feelsmusic.app</b></a> — Use your favorite lyrics in any conversation<br>
+<a href="https://guestbets.com" target="blank"><b>guestbets.com</b></a> — prediction game platform for events
+</td>
+</tr>
+</table>
 
 <h3 align="left">Senior Full-Stack Engineer building products at the intersection of technology, creativity, and user experience.</h3>
 
