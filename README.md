@@ -1,5 +1,10 @@
 <h1 align="left">Hey, I'm Marshall</h1>
 
+<p align="left">
+<a href="https://feelsmusic.app" target="blank">feelsmusic.app</a> &nbsp;•&nbsp;
+<a href="https://guestbets.com" target="blank">guestbets.com</a>
+</p>
+
 <h3 align="left">Senior Full-Stack Engineer building products at the intersection of technology, creativity, and user experience.</h3>
 
 I'm a senior software engineer with 7+ years of experience building web and mobile products end to end. I specialize in React, TypeScript, Node.js, Swift, PostgreSQL, and cloud services, with a focus on building reliable systems, thoughtful user experiences, and tools that help people do their best work.
