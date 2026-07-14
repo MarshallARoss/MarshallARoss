@@ -20,7 +20,7 @@
 </pre>
 </td>
 <td valign="middle">
-<a href="https://feelsmusic.app" target="blank"><b>feelsmusic.app</b></a> — Use your favorite lyrics in any conversation<br>
+<a href="https://feelsmusic.com" target="blank"><b>feelsmusic.com</b></a> — Use your favorite lyrics in any conversation<br>
 <a href="https://guestbets.com" target="blank"><b>guestbets.com</b></a> — prediction game platform for events
 </td>
 </tr>
