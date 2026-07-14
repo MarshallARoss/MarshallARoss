@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Marshall 👋</h1>
+<h1 align="left">Hey, I'm Marshall</h1>
 
 <h3 align="left">Senior Full-Stack Engineer building products at the intersection of technology, creativity, and user experience.</h3>
 
