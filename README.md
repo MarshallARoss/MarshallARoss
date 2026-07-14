@@ -1,11 +1,12 @@
 <h1 align="left">Hey, I'm Marshall</h1>
 
-<p align="left"><b>the apps you're looking for</b></p>
-
 <table>
 <tr>
 <td valign="middle">
 <pre>
+the apps you're
+looking for
+
         ▓▓
         ▓▓▓▓
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓
